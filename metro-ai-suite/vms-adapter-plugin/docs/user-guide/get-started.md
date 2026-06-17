@@ -43,7 +43,7 @@ git sparse-checkout set metro-ai-suite
 cd metro-ai-suite/live-video-analysis/live-video-captioning
 ```
 
-Follow the [LVC Get Started guide](../live-video-analysis/live-video-captioning/docs/user-guide/get-started.md) to prepare models and configure the environment, then start the stack:
+Follow the [LVC Get Started guide](../../../live-video-analysis/live-video-captioning/docs/user-guide/quick-start-guide.md) to prepare models and configure the environment, then start the stack:
 
 ```bash
 docker compose up -d
