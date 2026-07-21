@@ -77,3 +77,7 @@
 	path = metro-ai-suite/agentic-rag
 	url = https://github.com/opea-project/GenAIExamples.git
 	shallow = true
+[submodule "robotics-ai-suite/pipelines/fast-lio2-demo/FAST_LIO"]
+	path = robotics-ai-suite/pipelines/fast-lio2-demo/FAST_LIO
+	url = https://github.com/hku-mars/FAST_LIO.git
+	branch = ROS2

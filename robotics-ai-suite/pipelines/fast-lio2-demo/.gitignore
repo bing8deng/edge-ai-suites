@@ -1,0 +1,5 @@
+# Downloaded NCLT dataset files and generated run artifacts (trajectories,
+# ground truth conversions, etc.) - see scripts/env.sh DATASET_DIR/RESULTS_DIR.
+datasets/
+
+__pycache__/
